@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/veersaxena15/LeetCode/tree/master/0007-reverse-integer) |
 | [0507-perfect-number](https://github.com/veersaxena15/LeetCode/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/veersaxena15/LeetCode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/veersaxena15/LeetCode/tree/master/2652-sum-multiples) |
