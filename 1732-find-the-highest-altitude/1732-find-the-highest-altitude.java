@@ -6,7 +6,9 @@ class Solution {
 
         for(int i=0;i<n;i++){
             currSum+= gain[i];
-            maxSum = Math.max(currSum,maxSum);
+            if (currSum > maxSum){ 
+                maxSum = currSum;
+            }
         }
         return maxSum;
     }
