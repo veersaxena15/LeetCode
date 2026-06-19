@@ -13,7 +13,7 @@ class Solution {
                 }
             }
         }
-        for(int i=0;i<n;i++)
-        System.out.print(nums[i]+" ");
+        //for(int i=0;i<n;i++)
+        //System.out.print(nums[i]+" ");
     }
 }
