@@ -91,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/veersaxena15/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/veersaxena15/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/veersaxena15/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
