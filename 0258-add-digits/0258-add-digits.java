@@ -1,0 +1,20 @@
+class Solution {
+    public int addDigits(int num) {
+        int sum = 0;
+        while(sum > 9 || num != 0)
+        {
+            if(num > 0)
+            {
+            int lastDigit = num % 10;
+            sum = sum + lastDigit;
+            num = num/10;
+            }
+            else{
+                int lastDigit = sum % 10;
+                sum = sum/10;
+                sum = sum + lastDigit;
+            }
+        }
+        return sum;
+    }
+}
