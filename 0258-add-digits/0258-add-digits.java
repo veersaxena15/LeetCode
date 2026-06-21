@@ -1,5 +1,12 @@
 class Solution {
     public int addDigits(int num) {
+        //Method 1..
+        if(num == 0) {
+            return 0;
+        }
+        return 1 + (num - 1) % 9;
+
+        //Method 2..
         //int sum = 0;
         //while(sum > 9 || num != 0)
         //{
@@ -16,13 +23,14 @@ class Solution {
         //    }
         //}
         //return sum;
-        if(num == 0) return 0;
-        // return 1 + (num - 1) % 9;
-        if(num % 9 == 0)
-          return 9;
 
-        return num % 9;
-
-       
+        //Method 3..
+        //if(num == 0){
+        //    return 0;
+        //}
+        //if(num % 9 == 0){
+        //  return 9;
+        //}
+        //return num % 9;
     }
 }
