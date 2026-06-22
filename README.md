@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/veersaxena15/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/veersaxena15/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/veersaxena15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/veersaxena15/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/0020-valid-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/veersaxena15/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/veersaxena15/LeetCode/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/veersaxena15/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Tree
 |  |
 | ------- |
