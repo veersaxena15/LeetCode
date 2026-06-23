@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/veersaxena15/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/veersaxena15/LeetCode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/veersaxena15/LeetCode/tree/master/2652-sum-multiples) |
+| [3895-count-digit-appearances](https://github.com/veersaxena15/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/veersaxena15/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/veersaxena15/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/veersaxena15/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3895-count-digit-appearances](https://github.com/veersaxena15/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
 |  |
 | ------- |
