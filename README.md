@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/veersaxena15/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/veersaxena15/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/veersaxena15/LeetCode/tree/master/0029-divide-two-integers) |
 | [0258-add-digits](https://github.com/veersaxena15/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/veersaxena15/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/veersaxena15/LeetCode/tree/master/0507-perfect-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/veersaxena15/LeetCode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/veersaxena15/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/veersaxena15/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/veersaxena15/LeetCode/tree/master/0268-missing-number) |
