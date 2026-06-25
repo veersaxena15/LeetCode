@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/veersaxena15/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/veersaxena15/LeetCode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/veersaxena15/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/veersaxena15/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/veersaxena15/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/veersaxena15/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/veersaxena15/LeetCode/tree/master/0507-perfect-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/veersaxena15/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/veersaxena15/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/veersaxena15/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/veersaxena15/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/veersaxena15/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/veersaxena15/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/veersaxena15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/veersaxena15/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/veersaxena15/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/veersaxena15/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/veersaxena15/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/veersaxena15/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/veersaxena15/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
