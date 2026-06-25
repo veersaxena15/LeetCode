@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/veersaxena15/LeetCode/tree/master/0058-length-of-last-word) |
 | [1189-maximum-number-of-balloons](https://github.com/veersaxena15/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
