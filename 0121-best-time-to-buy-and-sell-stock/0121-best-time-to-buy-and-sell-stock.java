@@ -14,10 +14,4 @@ class Solution {
         return maxprofit;
         
     }
-
-    public static void main(){
-        int prices[] = {7,6,4,3,1};
-        int profit = maxProfit(prices);
-        System.out.println("Max Profit is: "+ profit);
-    }
 }
