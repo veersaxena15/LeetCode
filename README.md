@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/veersaxena15/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/veersaxena15/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/veersaxena15/LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/veersaxena15/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/veersaxena15/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/veersaxena15/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/veersaxena15/LeetCode/tree/master/0090-subsets-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/veersaxena15/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/veersaxena15/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/veersaxena15/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/veersaxena15/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/veersaxena15/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/veersaxena15/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/veersaxena15/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/veersaxena15/LeetCode/tree/master/0125-valid-palindrome) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/veersaxena15/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/veersaxena15/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/veersaxena15/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/veersaxena15/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -188,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/veersaxena15/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/veersaxena15/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
