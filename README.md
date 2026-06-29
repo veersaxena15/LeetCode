@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/veersaxena15/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/veersaxena15/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/veersaxena15/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/veersaxena15/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3895-count-digit-appearances](https://github.com/veersaxena15/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/veersaxena15/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/veersaxena15/LeetCode/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/veersaxena15/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/veersaxena15/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
