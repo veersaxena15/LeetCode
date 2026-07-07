@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/veersaxena15/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/veersaxena15/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/veersaxena15/LeetCode/tree/master/2652-sum-multiples) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/veersaxena15/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3895-count-digit-appearances](https://github.com/veersaxena15/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/veersaxena15/LeetCode/tree/master/3908-valid-digit-number) |
 ## Array
