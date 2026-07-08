@@ -2,15 +2,14 @@ class Solution {
     public boolean isAnagram(String s, String t) {
 
         String str3 = "", str4 = "";
-        int n = t.length();
-        if(s.length() == n)
+        if(s.length() == t.length())
         {
         for(int i = 65; i <= 90; i++)
         {
             String str1 = s.toUpperCase();
             String str2 = t.toUpperCase();
 
-            for(int j = 0; j < n; j++)
+            for(int j = 0; j < t.length(); j++)
             {
                 char ch1 = str1.charAt(j);
                 char ch2 = str2.charAt(j);
