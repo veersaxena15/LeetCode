@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/veersaxena15/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/veersaxena15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/veersaxena15/LeetCode/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/veersaxena15/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/veersaxena15/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/veersaxena15/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/veersaxena15/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/veersaxena15/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/veersaxena15/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/veersaxena15/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/veersaxena15/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/veersaxena15/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/veersaxena15/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/veersaxena15/LeetCode/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/veersaxena15/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
