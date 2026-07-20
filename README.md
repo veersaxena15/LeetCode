@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/veersaxena15/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/veersaxena15/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/veersaxena15/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/veersaxena15/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/veersaxena15/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/veersaxena15/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/veersaxena15/LeetCode/tree/master/0090-subsets-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/veersaxena15/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/veersaxena15/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/veersaxena15/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/veersaxena15/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/veersaxena15/LeetCode/tree/master/0169-majority-element) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/veersaxena15/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/veersaxena15/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
