@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/veersaxena15/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/veersaxena15/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/veersaxena15/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/veersaxena15/LeetCode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/veersaxena15/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/veersaxena15/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/veersaxena15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/veersaxena15/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [3731-find-missing-elements](https://github.com/veersaxena15/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/veersaxena15/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/veersaxena15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/veersaxena15/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/veersaxena15/LeetCode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
