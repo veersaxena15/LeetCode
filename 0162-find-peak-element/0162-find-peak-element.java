@@ -8,9 +8,11 @@ class Solution {
         {
             int mid = left + (right - left)/2;
 
+            //downhill
             if(nums[mid] > nums[mid + 1])
                 right = mid;
 
+            //uphill
             else if(nums[mid] < nums[mid + 1])
                 left = mid + 1;
         }
