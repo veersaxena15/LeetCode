@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/veersaxena15/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/veersaxena15/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/veersaxena15/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/veersaxena15/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/veersaxena15/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/veersaxena15/LeetCode/tree/master/0066-plus-one) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/veersaxena15/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/veersaxena15/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/veersaxena15/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/veersaxena15/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/veersaxena15/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/veersaxena15/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/veersaxena15/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/veersaxena15/LeetCode/tree/master/0049-group-anagrams) |
