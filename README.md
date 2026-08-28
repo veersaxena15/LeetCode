@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/veersaxena15/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/veersaxena15/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/veersaxena15/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/veersaxena15/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/veersaxena15/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/veersaxena15/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/veersaxena15/LeetCode/tree/master/0057-insert-interval) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/veersaxena15/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/veersaxena15/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/veersaxena15/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/veersaxena15/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/veersaxena15/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/veersaxena15/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/veersaxena15/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/veersaxena15/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/veersaxena15/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/veersaxena15/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/veersaxena15/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/veersaxena15/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/veersaxena15/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/veersaxena15/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/veersaxena15/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/veersaxena15/LeetCode/tree/master/0151-reverse-words-in-a-string) |
