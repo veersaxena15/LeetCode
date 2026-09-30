@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/veersaxena15/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/veersaxena15/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/veersaxena15/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/veersaxena15/LeetCode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/veersaxena15/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/veersaxena15/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/veersaxena15/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/veersaxena15/LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/veersaxena15/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/veersaxena15/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/veersaxena15/LeetCode/tree/master/1025-divisor-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/veersaxena15/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/veersaxena15/LeetCode/tree/master/1025-divisor-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -420,4 +423,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/veersaxena15/LeetCode/tree/master/0836-rectangle-overlap) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/veersaxena15/LeetCode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/veersaxena15/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
