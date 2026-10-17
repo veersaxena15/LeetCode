@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/veersaxena15/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/veersaxena15/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/veersaxena15/LeetCode/tree/master/0118-pascals-triangle) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/veersaxena15/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/veersaxena15/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/veersaxena15/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/veersaxena15/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/veersaxena15/LeetCode/tree/master/0125-valid-palindrome) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/veersaxena15/LeetCode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/veersaxena15/LeetCode/tree/master/0090-subsets-ii) |
 ## Greedy
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/veersaxena15/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
