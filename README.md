@@ -468,4 +468,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/veersaxena15/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/veersaxena15/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
