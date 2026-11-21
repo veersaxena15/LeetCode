@@ -5,8 +5,10 @@ class Solution {
 
         for(int i = 0; i < s.length(); i++)
         {
+            // for odd length
             count += expand(s, i, i);
 
+            // for even length
             count += expand(s, i, i + 1);
         }
 
