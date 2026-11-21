@@ -5,32 +5,27 @@ class Solution {
 
         for(int i = 0; i < s.length(); i++)
         {
-            for(int j = i; j < s.length(); j++)
-            {
-                String sub = s.substring(i, j + 1);
+            count += expand(s, i, i);
 
-                if(isPalindrome(sub))
-                    count++;
-            }
+            count += expand(s, i, i + 1);
         }
 
         return count;
     }
 
-    public static boolean isPalindrome(String s)
+    public static int expand(String s, int left, int right)
     {
-        int left = 0;
-        int right = s.length() - 1;
+        int count = 0;
 
-        while(left < right)
+        while(left >= 0 && right < s.length() && 
+            s.charAt(left) == s.charAt(right))
         {
-            if(s.charAt(left) != s.charAt(right))
-                return false;
+            count++;
 
-            left++;
-            right--;
+            left--;
+            right++;
         }
 
-        return true;
+        return count;
     }
 }
